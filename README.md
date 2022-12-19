@@ -1,4 +1,4 @@
-# 🗣 Subject&nbsp;&nbsp;&nbsp;&nbsp; ft_printf
+# 🗣 Subject &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ft_printf
 
 <br>
 <table>
