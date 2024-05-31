@@ -53,3 +53,11 @@ You &nbsp;have &nbsp;to &nbsp;implement &nbsp;the &nbsp;following &nbsp;conversi
 <li>%X&nbsp; Prints&nbsp; a &nbsp;number&nbsp; in&nbsp; hexadecimal&nbsp; (base 16) &nbsp;uppercase &nbsp;format.<br>
 <li>%% &nbsp;Prints&nbsp; a&nbsp; percent&nbsp; sign.<br>
 </ul>
+
+<br><br>
+
+> [!NOTE]  
+> Because of 42 School norm requirements:
+> * Each function can't have more than 25 lines of code.
+> * All variables are declared and aligned at the top of each function.
+> * Project should be created just with allowed functions otherwise it's cheating.
