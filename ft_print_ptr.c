@@ -33,9 +33,6 @@ static int	ft_get_print(unsigned long long int i)
 
 int	ft_print_ptr(unsigned long long int i)
 {
-	int	len;
-
-	len = 0;
 	if (!i)
 		return (write(1, "0x0", 3));
 	else
